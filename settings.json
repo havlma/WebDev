@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Visual Studio Light",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 130,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 130,
+  "editor.stickyScroll.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
